@@ -1,0 +1,2 @@
+<h3>A/B Test Landing Page</h3>
+Perform A/B test on for a new e-commerce landing page. The new web page is developed to increase the conversion rate. Three approaches (Bootstrapping/ Proportion Z-test/ Logistic Regression) are used to investigate if the new landing page works.
